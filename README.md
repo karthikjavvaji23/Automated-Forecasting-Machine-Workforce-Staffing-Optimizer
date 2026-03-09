@@ -147,27 +147,6 @@ https://data.montgomerycountymd.gov
 <img width="1734" height="789" alt="image" src="https://github.com/user-attachments/assets/6021e2e9-1f5b-4ae3-976f-f2e1a55caa2f" />
 
 
-## Project Structure
-forecasting_machine
-
-├── data/
-├── images/
-├── modules/
-├── app.py
-├── cleaning.py
-├── eda.py
-├── evaluate.py
-├── features.py
-├── ingest.py
-├── models.py
-├── prep.py
-├── staffing.py
-
-├── requirements.txt
-├── DP1Report.pdf
-└── PPT_DP1.pptx
-
-
 ---
 
 ## Running the Application
