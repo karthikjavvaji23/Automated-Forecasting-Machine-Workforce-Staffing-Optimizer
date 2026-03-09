@@ -144,40 +144,15 @@ For system validation, the pipeline was also tested using:
 **Montgomery County 911 Emergency Calls Dataset**
 
 https://data.montgomerycountymd.gov
+<img width="1734" height="789" alt="image" src="https://github.com/user-attachments/assets/6021e2e9-1f5b-4ae3-976f-f2e1a55caa2f" />
 
----
-
-## Example Visualizations
-
-### Monthly Demand Trend
-
-![Monthly Demand](images/monthly_demand.png)
-
-### Weekly Demand Pattern
-
-![Weekly Pattern](images/weekly_pattern.png)
-
-### Forecast Model Comparison
-
-![Model Comparison](images/model_comparison.png)
-
-### Demand Forecast
-
-![Forecast](images/forecast_visualization.png)
-
-### Workforce Staffing Forecast
-
-![Staffing](images/staffing_forecast.png)
-
----
 
 ## Project Structure
 forecasting_machine
-│
+
 ├── data/
 ├── images/
 ├── modules/
-
 ├── app.py
 ├── cleaning.py
 ├── eda.py
